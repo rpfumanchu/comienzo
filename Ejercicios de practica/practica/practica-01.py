@@ -1,0 +1,9 @@
+#Escribir un programa que pregunte al usuario por el número de horas trabajadas y 
+# el coste por hora. Después debe mostrar por pantalla la paga que le corresponde.
+
+
+
+horas = int(input('¿Cuantas horas has trabajodo hoy?'))
+coste = int(input('¿Cuanto cobras por hora?'))
+paga = horas * coste 
+print('lo que vas acobrar hoy en total:',paga , 'Euros')

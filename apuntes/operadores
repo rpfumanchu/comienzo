@@ -1,0 +1,16 @@
+Operador	Descripción	Ejemplo
+=	asigna valor a una variable	  >>> r = 5>>> r1 = r
+
++=	suma el valor a la variable	>>> r = 5>>> r += 10; r15
+
+-=	resta el valor a la variable	>>> r = 5>>> r -= 10; r-5
+
+*=	multiplica el valor a la variable	>>> r = 5>>> r *= 10; r50
+
+/=	divide el valor a la variable	>>> r = 5>>> r /= 10; r0
+
+**=	calcula el exponente del valor de la variable	>>> r = 5>>> r **= 10; r9765625
+
+//=	calcula la división entera del valor de la variable	>>> r = 5>>> r //= 10; r0
+
+%=	devuelve el resto de la división del valor de la variable	>>> r = 5>>> r %= 10; r5
